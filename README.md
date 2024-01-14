@@ -16,17 +16,17 @@ Welcome to the **Plain Text Snake Game in Python**! This is a minimalistic and s
 
 1. **Clone the Repository:**
 
-`git clone https://github.com/n0rea5on/Plain-Text-Snake-Game-in-Python.git`
+    `git clone https://github.com/n0rea5on/Plain-Text-Snake-Game-in-Python.git`
 
 
 2. **Navigate to the Directory:**
 
-`cd Plain-Text-Snake-Game-in-Python`
+    `cd Plain-Text-Snake-Game-in-Python`
 
 
 3. **Run the Game:**
 
-`python snake_game.py`
+    `python snake_game.py`
 
 
 4. **Enjoy the Game:** Use w, a, s, d key to control the snake, grow longer by eating the food, and challenge yourself to achieve the highest score!
