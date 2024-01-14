@@ -16,29 +16,26 @@ Welcome to the **Plain Text Snake Game in Python**! This is a minimalistic and s
 
 1. **Clone the Repository:**
 
-```bash```
 `git clone https://github.com/n0rea5on/Plain-Text-Snake-Game-in-Python.git`
 
 
 2. **Navigate to the Directory:**
 
-'''bash
-cd Plain-Text-Snake-Game-in-Python
+`cd Plain-Text-Snake-Game-in-Python`
 
 
 3. **Run the Game:**
 
-'''bash
-python snake_game.py
+`python snake_game.py`
 
 
-4. **Enjoy the Game:** Use arrow keys to control the snake, grow longer by eating the food, and challenge yourself to achieve the highest score!
+4. **Enjoy the Game:** Use w, a, s, d key to control the snake, grow longer by eating the food, and challenge yourself to achieve the highest score!
 
 ## Configuration
 
 - **Grid Size:** Modify the `GRID_SIZE` variable in the `snake_game.py` file to resize the game grid.
 
-- **Character Customization:** Change the `SNAKE_HEAD`, `SNAKE_BODY`, `FOOD`, and `` characters to customize the appearance of the snake and food.
+- **Character Customization:** Change the `SNAKE_HEAD`, `SNAKE_BODY`, `FOOD`, and `GRID_POINT` characters to customize the appearance of the snake and food.
 
 ## Contributing
 
@@ -47,3 +44,5 @@ If you have suggestions, improvements, or find any issues, feel free to contribu
 ## Comment
 
 I wrote a very simple version of the readme file but the GPT version is so good😂.
+
+The snake won't move automatically, I do not know how to do it without external library😅.
