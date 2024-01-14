@@ -42,7 +42,7 @@ python snake_game.py
 
 ## Contributing
 
-If you have suggestions, improvements, or find any issues, feel free to contribute! Create a pull request or open an issue on the [GitHub repository](https://github.com/your-username/Plain-Text-Snake-Game-in-Python).
+If you have suggestions, improvements, or find any issues, feel free to contribute! Create a pull request or open an issue on the [GitHub repository](https://github.com/n0rea5on/Plain-Text-Snake-Game-in-Python).
 
 ## Comment
 
