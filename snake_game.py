@@ -219,13 +219,4 @@ def main_game():
     print('Game Over')
     
 if __name__ == '__main__':
-    print('Testing generate_grid')
-    FullGrid = generate_grid(GRID_SIZE)
-    print('Testing print_grid')
-    print_grid(FullGrid)
-    print('Testing grid initialized')
-    SnakePts= []
-    initialize_grid(GRID_SIZE, FullGrid, SnakePts)
-    print_grid(FullGrid)
-    print('TESTING FULL GAME!')
     main_game()
