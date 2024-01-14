@@ -45,4 +45,4 @@ If you have suggestions, improvements, or find any issues, feel free to contribu
 
 I wrote a very simple version of the readme file but the GPT version is so good😂.
 
-The snake won't move automatically, I do not know how to do it without external library😅.
+The snake won't move automatically, I do not know how to do it without external module😅.
