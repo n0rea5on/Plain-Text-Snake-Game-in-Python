@@ -17,7 +17,7 @@ Welcome to the **Plain Text Snake Game in Python**! This is a minimalistic and s
 1. **Clone the Repository:**
 
 '''bash
-git clone https://github.com/your-username/Plain-Text-Snake-Game-in-Python.git
+git clone https://github.com/n0rea5on/Plain-Text-Snake-Game-in-Python.git
 
 
 2. **Navigate to the Directory:**
